@@ -18,7 +18,6 @@ If you have any questions or concerns, please open an issue in this repository.
 
 ## Card
 
-[![MIT License](https://img.shields.io/github/license/satyamksharma/Sublit-Programs?style=flat-square)](https://github.com/satyamksharma/Sublit-Programs/blob/main/LICENSE)
 
 [![GitHub Issues](https://img.shields.io/github/issues/satyamksharma/Sublit-Programs?style=flat-square)](https://github.com/satyamksharma/Sublit-Programs/issues)
 
