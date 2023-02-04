@@ -1,14 +1,23 @@
-# Contributing Guidelines
+# Contributing to PES University Lab/Assignment Programs
 
-Thank you for your interest in contributing to this project! We appreciate your help and support in making this repository better. The following guidelines will help you get started with contributing.
+Thank you for considering contributing to this repository containing all the programs assigned to students as a part of labs and assignments in PES University EC Campus from semesters 1 to 6.
+
+## How to Contribute
+
+- Check for open issues or open a fresh issue to start a discussion around a feature request or a bug.
+- Fork the repository on GitHub to start making your changes.
+- Write tests which shows that the bug was fixed or that the feature works as expected.
+- Make sure that your code passes all the tests by running `npm test`.
+- Send a pull request and bug the maintainer until it gets merged and published.
 
 ## Naming Convention
 
 - The programs in the folders `Sem-1`, `Sem-2`, and `Sem-3` should be named according to the purpose of the program, e.g. `CyclicDetection.c`.
 
-- In the `Sem-4` folder, the folders should be named using alphabets (A, B, C, D, etc.) to represent the sections in the university.
+- In the `Sem-4` folder, the folders should be named using alphabets (Sec-A, Sec-B, Sec-C, Sec-D, etc.) to represent the sections.
 
-- The files inside each folder of `Sem-4` should be named in the format `Ticking-Session-[Session Number]([A, B, C, D])`. The `[Session Number]` should be the ticking session number (1, 2, or 3 etc.) for that particular session, and in the brackets, A represents the first program of that ticking session, B represents the 2nd program of that ticking session, etc.
+- The files inside each folder of `Sem-4` should be named in the format `Ticking-Session-[Session Number]([A, B, C, D])`.
+  - The `[Session Number]` should be the ticking session number (1, 2, or 3 etc.) for that particular session, and in the brackets, A represents the first program of that ticking session, B represents the 2nd program of that ticking session, etc.
 
 ## Creating a Branch
 
